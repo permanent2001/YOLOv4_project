@@ -1,2 +1,2 @@
 # YOLOv4_project
-Detect people fall
+Detect people fall and social distance
